@@ -6,7 +6,7 @@
 
 - Diary made with ReactJS and Electron [Felwritesit](https://github.com/pabloskubert/Felwritesit)
 
-- Protectedtext.com Unofficial API [Protectedtext-API](https://github.com/pabloskubert/protectedtext-api)
+- Protectedtext.com Unofficial [Protectedtext-API](https://github.com/pabloskubert/protectedtext-api)
 
 - 📫 How to reach me **pablo1920@protonmail.com**
 
